@@ -14,7 +14,7 @@ Later the election commision requested additional data to complete the audit:
 8. County with the highest turnout
 
 ## Resources
-- DataSource: election_results.csv
+- DataSource: election_results.csv (/Resources/election_results.csv)
 - Software: Python 3.8.8, Visual Studio Code 1.61.2
 
 ## Results
