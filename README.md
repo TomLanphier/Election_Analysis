@@ -6,9 +6,12 @@ The results of a local Colorado congressional election need to be audited, and t
 3. Total number of votes each candidate received
 4. Percentage of votes each candidate won
 5. The winner of the election based on popular vote
-6. Voter turnout for each county
-7. Percentage of votes from each vounty out of the total count
-8. County with the highest turnout
+
+Later the election commision requested additional data to complete the audit:
+
+7. Voter turnout for each county
+8. Percentage of votes from each vounty out of the total count
+9. County with the highest turnout
 
 ## Resources
 - DataSource: election_results.csv
