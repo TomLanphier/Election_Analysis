@@ -35,7 +35,7 @@ The election audit with determined the following:
 
 When the analysis code is run, the results are output to the terminal (shown below) and to a text file (![election_analysis.txt](/Analysis/election_analysis.txt)).
 
-![TerminalOutput.png](/Resources/TerminalOutput.png)
+![TerminalOutput.png](/Analysis/TerminalOutput.png)
 
 ## Summary
 
