@@ -14,7 +14,7 @@ Later the election commision requested additional data to complete the audit:
 8. County with the highest turnout
 
 ## Resources
-- DataSource: ![election_results.csv](/Resources/election_results.csv)
+- DataSource: election_results.csv (![Link](/Resources/election_results.csv))
 - Software: Python 3.8.8, Visual Studio Code 1.61.2
 
 ## Results
@@ -33,7 +33,7 @@ The election audit with determined the following:
 - The winner of the election based on popular vote was:
   - Diana DeGette with 272,892 votes and 73.8% of the vote
 
-When the analysis code is run, the results are output to the terminal (shown below) and to a text file (![election_analysis.txt](/Analysis/election_analysis.txt)).
+When the analysis code is run, the results are output to the terminal (shown below) and to a text file (![Link](/Analysis/election_analysis.txt)).
 
 ![TerminalOutput.png](/Analysis/TerminalOutput.png)
 
