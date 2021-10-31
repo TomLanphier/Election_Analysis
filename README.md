@@ -34,7 +34,4 @@ The election audit with determined the following:
   - Diana DeGette with 272,892 votes and 73.8% of the vote
 
 ## Summary
-<<<<<<< HEAD
-=======
 
->>>>>>> 2ab664ed78910417683eb4ef962267491388af6b
