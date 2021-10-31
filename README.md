@@ -33,5 +33,7 @@ The election audit with determined the following:
 - The winner of the election based on popular vote was:
   - Diana DeGette with 272,892 votes and 73.8% of the vote
 
+When the analysis code is run, the results are output to the terminal (![TerminalOutput.png](/Resources/TerminalOutput.png) and to a text file (/Analysis/election_analysis.txt).
+
 ## Summary
 
